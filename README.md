@@ -9,11 +9,11 @@ This repo will be useful if you are planning to use my code or debugugging my co
  
   Example:
  
-	tEnSt		: type Enum State
-	cFnStExit	: constant Function State Exit 
-	tFpSt		: type Function Pointer State 
-	vFpSt		: variable Function Pointer State
- 	vEnCurSte   : variable Enum Current State
+		tEnSt		: type Enum State
+		cFnStExit	: constant Function State Exit 
+		tFpSt		: type Function Pointer State 
+		vFpSt		: variable Function Pointer State
+		vEnCurSte   : variable Enum Current State
  
  
   Naming prefix1 reference:
