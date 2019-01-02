@@ -23,13 +23,13 @@
  * Example:
  *
  *		tEnSt		: type Enum State
- *		cFnStExit	: constant Function State Exit 
  *		tFpSt		: type Function Pointer State 
  *		vFpSt		: variable Function Pointer State
  *		vEnCurSte	: variable Enum Current State
+ *		FnStExit	: Function State Exit [ prefix 1 is optional ]	
  *
  *
- * Naming prefix1 reference:
+ * Naming prefix1 reference: [Optional, Can be skipped if not required]
  *
  *		v : variable
  *		t : datatype
