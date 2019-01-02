@@ -1,10 +1,11 @@
 This is just a reference document and code. 
+
 This repo will be useful if you are planning to use my code or debugugging my code.
 
 
-  Nomenclature: 
+  Nomenclature used in my code: 
   
-  <Variable/Const/Type> <DataType/Function/Pointer/Pnemonic> <Pnemonic> <Name>
+	<Variable/Const/Type> <DataType/Function/Pointer/Pnemonic> <Pnemonic> <Name>
  
   Example:
  
@@ -15,13 +16,15 @@ This repo will be useful if you are planning to use my code or debugugging my co
  	vEnCurSte   : variable Enum Current State
  
  
-  Naming prefix1 reference 
- 		v : variable
- 		t : datatype
- 		c : constant 
- 		a : array 
+  Naming prefix1 reference:
+
+		v : variable
+		t : datatype
+		c : constant 
+		a : array 
  
-  Naming prefix2 reference
+  Naming prefix2 reference:
+
  		En  : Enum
  		St  : Structure
  		In  : Integer
