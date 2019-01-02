@@ -19,10 +19,18 @@ void testInt(void *self, void *input, void *output)
 {
 	if(input){
 		printf("Test Function Input = %d\n", *((int*) input));
-		*((int *) output) = *((int *)input);
+
+		if(output != NULL){
+			*((int *) output) = *((int *)input);
+		}
+
 	}else{
 		printf("Test Function Input = 0\n");
-		*((int *)output) = 0;
+
+		if(output != NULL){
+			*((int *)output) = 0;
+		}
+
 	}
 	return;
 }
