@@ -1,8 +1,12 @@
 /* Sample State Machine in C
+
  *
  *	Author:
  *		Viki (a) Vignesh Natarajan
- *		viki@vikilabs.org		
+ *		viki@vikilabs.org	
+ *
+ *  This code is free to use and experiment. Have Fun ;-)
+ *  
  */
 #include <stdio.h>
 #include <stdlib.h>
@@ -16,7 +20,7 @@
  * 
  * <Variable/Const/Type><DataType/Function/Pointer/Pnemonic><Pnemonic><Name>
  *
- * Ex:
+ * Example:
  *
  *	tEnSt		: type Enum State
  *  cFnStExit	: constant Function State Exit 
