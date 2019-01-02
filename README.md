@@ -12,7 +12,7 @@ This repo will be useful if you are planning to use my code or debugugging my co
 		tEnSt		: type Enum State
 		tFpSt		: type Function Pointer State 
 		vFpSt		: variable Function Pointer State
-		vEnCurSte   : variable Enum Current State
+		vEnCurSte	: variable Enum Current State
 		FnStExit	: Function State Exit  [ prefix1 is optional ]
  
  
